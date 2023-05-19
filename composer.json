@@ -1,0 +1,6 @@
+{
+    "name": "wordpress/deligo-timeline",
+    "type": "wordpress-plugin",
+    "version": "1.0.0",
+    "require": {}
+}
